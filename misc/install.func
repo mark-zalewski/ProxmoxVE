@@ -21,7 +21,7 @@ color() {
   TAB="  "
 
   # System
-  RETRY_NUM=10
+  RETRY_NUM=30
   RETRY_EVERY=3
 
   # Icons
